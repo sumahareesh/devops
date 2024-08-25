@@ -1,0 +1,9 @@
+git checkout -b <branch name>
+ add one text file in the folder
+git add <file name>
+git status
+above command is to check the status of the added file
+
+git commit -m '<commit message>'
+ git push origin <branch name>
+ git pull origin <branch name>
